@@ -22,7 +22,6 @@ skincare-ingredient-analyzer/
 ├── requirements.txt           # Python dependencies list
 ├── docs/                      # Project report and additional documentation
 
----
 
 ## Datasets and Models
 
