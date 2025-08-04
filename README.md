@@ -9,17 +9,18 @@
 ---
 
 ## Project Structure
+
 skincare-ingredient-analyzer/
 │
-├── saved_models/ # Pre-trained ML models
+├── saved_models/               # Pre-trained ML model files
 ├── data/
-│ ├── ingredientanalyzer.csv # Ingredient safety data
-│ └── recommendation 1.xlsx # Product recommendation data
-├── pro.py # Streamlit application main script
-├── skincare_ingredient_analyzer.py # Ingredient analysis backend code
-├── README.md # Project README
-├── requirements.txt # Python dependencies list
-├── docs/ # Project report and documentation
+│   ├── ingredientanalyzer.csv # Ingredient safety dataset
+│   └── recommendation_1.xlsx  # Skin product recommendation dataset
+├── pro.py                     # Streamlit main app script
+├── skincare_ingredient_analyzer.py  # Backend code for ingredient analysis
+├── README.md                  # Project documentation and overview
+├── requirements.txt           # Python dependencies list
+├── docs/                      # Project report and additional documentation
 
 ---
 
